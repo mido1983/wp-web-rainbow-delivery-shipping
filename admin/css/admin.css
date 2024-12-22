@@ -1,0 +1,9 @@
+/* admin.css */
+.wrds-admin-wrap {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.wrds-admin-wrap h1 {
+    color: #0073aa;
+}
